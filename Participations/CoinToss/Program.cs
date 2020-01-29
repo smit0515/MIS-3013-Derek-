@@ -25,7 +25,7 @@ namespace CoinToss
             {
                 answer = "tails";
 
-
+            }
                 if (input == answer)
                 {
                     Console.WriteLine("Congratulations, you guessed correctly");
@@ -43,5 +43,5 @@ namespace CoinToss
 
 
             }
+        }
     }
-}
